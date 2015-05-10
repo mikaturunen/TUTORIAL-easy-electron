@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/mikaturunen/TUTORIAL-easy-electron/issues"
   },
-  "homepage": "https://github.com/mikaturunen/TUTORIAL-easy-electron"
+  "homepage": "https://github.com/mikaturunen/TUTORIAL-easy-electron",
+  "dependencies": {
+    "electron-prebuilt": "^0.25.3"
+  }
 }
