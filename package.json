@@ -1,0 +1,27 @@
+{
+  "name": "tutorial-easy-electron",
+  "version": "0.0.1",
+  "description": "Tutorial: How to easily build cross-platform desktop applications with Node.js and Electron ",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikaturunen/TUTORIAL-easy-electron.git"
+  },
+  "keywords": [
+    "electron",
+    "tutorial",
+    "easy",
+    "cross-platforn",
+    "desktop",
+    "nodejs"
+  ],
+  "author": "Mika Turunen <mika.turunen@ymail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikaturunen/TUTORIAL-easy-electron/issues"
+  },
+  "homepage": "https://github.com/mikaturunen/TUTORIAL-easy-electron"
+}
