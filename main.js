@@ -31,7 +31,7 @@ app.on("ready", function() {
     });
 
     // Building the file path to the index.html
-    mainWindow.loadUrl("file://" + __dirname + "/../frontend/html/index.html");
+    mainWindow.loadUrl("file://" + __dirname + "/index.html");
     // Emitted when the window is closed.
     mainWindow.on("closed", function() {
         // Dereference the window object, usually you would store windows
